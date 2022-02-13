@@ -1,3 +1,3 @@
-A simple app which functions as a message-board.
+A simple message-board app made using MongoDB, Express and NodeJS.
 
-Learnt MongoDB, Express and NodeJS while making this.
+Check it out here - https://henlo-app.herokuapp.com/
